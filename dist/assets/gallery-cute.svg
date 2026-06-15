@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Temporary birthday couple photo placeholder</title>
+  <desc id="desc">A warm illustrated placeholder for a cute memory photo.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#ffe4e6"/>
+      <stop offset=".48" stop-color="#fde68a"/>
+      <stop offset="1" stop-color="#bfdbfe"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#111827" flood-opacity=".18"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <circle cx="160" cy="150" r="86" fill="#fb7185" opacity=".38"/>
+  <circle cx="1040" cy="160" r="118" fill="#38bdf8" opacity=".28"/>
+  <circle cx="980" cy="760" r="160" fill="#f472b6" opacity=".22"/>
+  <g filter="url(#shadow)">
+    <rect x="215" y="160" width="770" height="560" rx="46" fill="#fffaf0"/>
+    <rect x="260" y="210" width="680" height="360" rx="36" fill="#fce7f3"/>
+    <circle cx="470" cy="372" r="92" fill="#fb7185"/>
+    <circle cx="720" cy="372" r="92" fill="#60a5fa"/>
+    <path d="M360 560c58-82 151-116 235-82 86-36 184 2 244 82" fill="none" stroke="#111827" stroke-width="34" stroke-linecap="round"/>
+    <path d="M540 318c24-34 72-34 96 0 24-34 72-34 96 0" fill="none" stroke="#fff" stroke-width="22" stroke-linecap="round"/>
+    <text x="600" y="660" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="900" fill="#111827">CUTE MEMORY</text>
+  </g>
+</svg>

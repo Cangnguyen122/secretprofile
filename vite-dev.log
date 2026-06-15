@@ -1,0 +1,42 @@
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m182[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5173[22m/[39m
+[2m11:50:49 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ui/GlitchText.tsx, /src/index.css[22m
+[2m11:50:49 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/sections/RunawayButtonRevealSection.tsx, /src/index.css[22m
+[2m11:58:22 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/sections/FinalCelebrationSection.tsx, /src/index.css, /src/components/sections/EmotionalRevealSection.tsx, /src/components/sections/SecretScanSection.tsx, /src/components/sections/CoupleTimelineSection.tsx, /src/components/sections/RunawayButtonRevealSection.tsx, /src/components/sections/TrollIntroSection.tsx, /src/components/sections/VideoWishesSection.tsx, /src/components/sections/MemoryGallerySection.tsx[22m
+[2m11:59:37 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/sections/EmotionalRevealSection.tsx, /src/index.css[22m
+[2m11:59:38 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/sections/VideoWishesSection.tsx, /src/index.css[22m
+[2m11:59:38 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/sections/VideoWishesSection.tsx[22m
+[2m11:59:42 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/sections/RunawayButtonRevealSection.tsx, /src/index.css[22m
+[2m11:59:49 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/sections/FinalCelebrationSection.tsx, /src/index.css[22m
+[2m12:00:14 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ui/PhotoLightbox.tsx, /src/index.css[22m
+[2m12:00:48 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/sections/MemoryGallerySection.tsx, /src/index.css[22m
+[2m12:01:02 AM[22m [36m[1m[vite][22m[39m [32mvite.config.js changed, restarting server...[39m
+[2m12:01:02 AM[22m [36m[1m[vite][22m[39m server restarted.
+[2m12:03:59 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/sections/TrollIntroSection.tsx, /src/index.css[22m
+[2m12:04:42 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/sections/TrollIntroSection.tsx, /src/index.css[22m
+[2m12:06:07 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ui/SectionWrapper.tsx, /src/index.css[22m
+[2m12:06:29 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/sections/MemoryGallerySection.tsx, /src/index.css[22m
+[2m12:06:55 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/sections/MemoryGallerySection.tsx, /src/index.css[22m
+[2m12:12:40 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css[22m
+[2m12:12:40 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/sections/RunawayButtonRevealSection.tsx, /src/index.css[22m
+[2m12:13:38 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/sections/FinalCelebrationSection.tsx, /src/index.css[22m
+[2m12:14:17 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m12:21:10 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/sections/RunawayButtonRevealSection.tsx, /src/index.css[22m
+[2m12:21:20 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/sections/FinalCelebrationSection.tsx, /src/index.css[22m
+[2m12:23:57 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ui/CelebrationCanvas.tsx, /src/index.css[22m
+[2m12:24:51 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/sections/FinalCelebrationSection.tsx, /src/index.css[22m
+[2m12:31:04 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css[22m
+[2m12:31:04 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/sections/TrollIntroSection.tsx, /src/index.css[22m
+[2m12:31:04 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/sections/TrollIntroSection.tsx[22m
+[2m12:31:31 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/sections/SecretScanSection.tsx, /src/index.css[22m
+[2m12:34:03 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css[22m
+[2m12:35:21 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/sections/RunawayButtonRevealSection.tsx, /src/index.css[22m
+[2m12:37:33 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/sections/RunawayButtonRevealSection.tsx, /src/index.css[22m
+[2m12:37:49 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/sections/FinalCelebrationSection.tsx, /src/index.css[22m
+[2m12:41:19 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/sections/SecretScanSection.tsx, /src/index.css[22m
+[2m12:41:25 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/sections/SecretScanSection.tsx, /src/index.css[22m
+[2m12:41:55 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/sections/TrollIntroSection.tsx, /src/index.css[22m
+[2m12:44:43 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/sections/CoupleTimelineSection.tsx, /src/components/sections/SecretScanSection.tsx, /src/components/sections/VideoWishesSection.tsx, /src/components/sections/RunawayButtonRevealSection.tsx, /src/components/sections/EmotionalRevealSection.tsx, /src/components/sections/FinalCelebrationSection.tsx, /src/components/sections/MemoryGallerySection.tsx, /src/components/sections/TrollIntroSection.tsx[22m
+[2m12:44:58 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/sections/CoupleTimelineSection.tsx, /src/components/sections/SecretScanSection.tsx, /src/components/sections/VideoWishesSection.tsx, /src/components/sections/RunawayButtonRevealSection.tsx, /src/components/sections/EmotionalRevealSection.tsx, /src/components/sections/FinalCelebrationSection.tsx, /src/components/sections/MemoryGallerySection.tsx, /src/components/sections/TrollIntroSection.tsx[22m
